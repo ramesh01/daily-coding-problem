@@ -25,7 +25,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Solution](solutions/problem_002.py)
+[Solution](solutions/problem_002.js)
 
 ---
 
